@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CSS Cheatsheet</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<h1>Common CSS Properties Cheatsheet</h1>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>color</code></td>
+<td>Sets the text color</td>
+<td><code>color: red;</code></td>
+</tr>
+<tr>
+<td><code>background-color</code></td>
+<td>Sets the background color</td>
+<td><code>background-color: #f0f0f0;</code></td>
+</tr>
+<tr>
+<td><code>font-family</code></td>
+<td>Sets the font type</td>
+<td><code>font-family: Arial, sans-serif;</code></td>
+</tr>
+<tr>
+<td><code>font-size</code></td>
+<td>Sets the text size</td>
+<td><code>font-size: 16px;</code></td>
+</tr>
+<tr>
+<td><code>margin</code></td>
+<td>Sets the outer spacing</td>
+<td><code>margin: 10px;</code></td>
+</tr>
+<tr>
+<td><code>padding</code></td>
+<td>Sets the inner spacing</td>
+<td><code>padding: 10px;</code></td>
+</tr>
+<tr>
+<td><code>border</code></td>
+<td>Defines the border of an element</td>
+<td><code>border: 1px solid black;</code></td>
+</tr>
+<tr>
+<td><code>text-align</code></td>
+<td>Aligns the text horizontally</td>
+<td><code>text-align: center;</code></td>
+</tr>
+<tr>
+<td><code>display</code></td>
+<td>Specifies layout behavior</td>
+<td><code>display: flex;</code></td>
+</tr>
+<tr>
+<td><code>position</code></td>
+<td>Specifies positioning method</td>
+<td><code>position: absolute;</code></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+
